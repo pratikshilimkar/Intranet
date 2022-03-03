@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "227164915697",
+    "project_id": "intranet-a922f",
+    "storage_bucket": "intranet-a922f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227164915697:android:4cc098318605905232e650",
+        "android_client_info": {
+          "package_name": "myapp.intranetintelizign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227164915697-2icp25f3abplk70hj89vt1jiks54rrhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAazYtGPK_AZtc2JNgVanzvVpjgy-beym8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227164915697-2icp25f3abplk70hj89vt1jiks54rrhd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227164915697-adtbtn9q6b667a1idhvrfh21m7dev69f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.intranet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
