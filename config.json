@@ -1,7 +1,7 @@
 {
     "configVersion": 2,
     "appIdentifier": "myapp.intranetintelizign",
-    "appName": "IntranetIntelizign",
+    "appName": "Intranet",
     "bundleName": {
         "main": "IntranetInteliz",
         "dev": "IntranetInteDev"
@@ -126,7 +126,7 @@
             "enabled": false
         }
     },
-    "appVersion": "1.0.0",
-    "buildNumber": 1,
+    "appVersion": "1.1.0",
+    "buildNumber": 2,
     "runtimeUrl": "https://intranetintelizign-sandbox.mxapps.io"
 }
